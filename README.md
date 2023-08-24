@@ -17,14 +17,14 @@ Restore your keys:
 temporald keys add NAME_OF_KEY
 temporald keys list
 ```
-Copy your new temporal address
 
+Copy your new temporal address
 
 Init the node, add a genesis account and generate the gentx:
 
 ```
 temporald init NODE_NAME --chain-id temporal-test-1 --default-denom utprl
-temporald add-genesis-account TEMPORAL_ADDRESS 1000000000000utprl --chain-id temporal-test-1
+temporald add-genesis-account TEMPORAL_ADDRESS 1000000000000utprl
 ```
 
 ```
