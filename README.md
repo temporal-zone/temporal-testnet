@@ -7,7 +7,7 @@ Clone and install the node:
 ```
 git clone https://github.com/temporal-zone/temporal.git
 cd temporal
-git checkout v0.2.0
+git checkout v0.2.1
 make install
 ```
 
