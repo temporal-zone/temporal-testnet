@@ -1,4 +1,4 @@
-# temporal-testnet
+# Temporal Public Testnet
 
 To generate a gentx:
 
