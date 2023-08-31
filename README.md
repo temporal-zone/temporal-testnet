@@ -1,3 +1,5 @@
+# Note: Testnet was succesfully launched on the morning of 8/31 and no more spots are available. 
+
 # Temporal Public Testnet
 
 ## Generate a gentx on a server that has never run a Temporal node before:
