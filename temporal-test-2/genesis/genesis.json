@@ -34,7 +34,6 @@
         "sig_verify_cost_secp256k1": "1000"
       },
       "accounts": []
-      ]
     },
     "authz": {
       "authorization": []
